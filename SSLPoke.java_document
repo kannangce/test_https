@@ -1,0 +1,2 @@
+javac SSLPoke.java  
+java SSLPoke <host> <port>
